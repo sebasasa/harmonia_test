@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dbb7acac.css",
+    "main.js": "./static/js/main.662e7a9c.js",
+    "static/js/787.a88735e3.chunk.js": "./static/js/787.a88735e3.chunk.js",
+    "static/media/Storyteling.mp4": "./static/media/Storyteling.8b9068eef95c37811fd4.mp4",
+    "static/media/Video1.mp4": "./static/media/Video1.be8308fa4191227a7624.mp4",
+    "static/media/test2.mp3": "./static/media/test2.d1a5b68ad23fad112550.mp3",
+    "static/media/test.mp3": "./static/media/test.ecef9429197bc24e29ec.mp3",
+    "static/media/Kurye-Light.otf": "./static/media/Kurye-Light.275f83d2877b7f038e21.otf",
+    "index.html": "./index.html",
+    "main.dbb7acac.css.map": "./static/css/main.dbb7acac.css.map",
+    "main.662e7a9c.js.map": "./static/js/main.662e7a9c.js.map",
+    "787.a88735e3.chunk.js.map": "./static/js/787.a88735e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb7acac.css",
+    "static/js/main.662e7a9c.js"
+  ]
+}
